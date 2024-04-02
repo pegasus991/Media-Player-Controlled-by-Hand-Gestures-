@@ -7,7 +7,7 @@
 - After Execution of the main code, you will see 4 dialogue boxes appearing with the names - Filtre, Result, Thresh and Color Adjustments.
 - Now Adjust the hyperparameters until your hand is properly detected in the thresh section and contours are properly visible in the Result section.
 - Now open a media player (preferably VLC medial player), not the default ones in the OS.
-- Now you can perform different actions with the help of your hand gestures !
+- Now you can perform different actions with the help of your hand gestures ! (For example if you display 3 fingers, the volume goes up. If you display 4 fingers, the volume goes down, If you display 5 fingers, the video moves forward, If you display 2 fingers, the video plays/stops).
 - Press "q" to end the process.
 
 # A few things to keep in mind -
